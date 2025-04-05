@@ -1,74 +1,73 @@
-# Selim – Junior Frontend Developer
+# Selim – Junior Frontend Developer 🚀
 
-<div align="center">
-  <h1 style="animation: fadeIn 2s ease-in-out;">Welcome to My Code Cosmos!</h1>
-  <p style="font-style: italic;">"Where every line of code is a verse and every bug a minor chord in our symphony of progress."</p>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Welcome GIF"/>
+</p>
 
----
-
-## About Me
-
-I am **Selim**, a passionate and driven Junior Frontend Developer, standing at the threshold of innovation with a blend of creativity and technical prowess. My journey through the digital realm has been one of self-discovery, poetic experimentation, and relentless curiosity. As I embrace the future with open arms, I'm currently adding **Python** to my growing repertoire, eager to explore its endless possibilities.
+<p align="center">
+  <strong>“Where every line of code is a verse, and every bug a minor chord in our symphony of progress.”</strong>
+</p>
 
 ---
 
-## Technical Skills
+## 👨‍💻 About Me
 
-- **HTML & CSS:** Crafting elegant, semantic web pages.
-- **JavaScript (JS):** Mastering both vanilla JS and modern frameworks.
-- **Bootstrap 4:** Bringing responsive design to life with style.
-- **SCSS:** Harnessing the power of advanced CSS syntax.
-- **Tailwind CSS:** Creating utility-first designs with ease.
-- **React:** Building interactive UI components with a touch of Redux magic.
-- **TypeScript (TS) Base:** Writing robust and type-safe code.
-- **NodeJS Base:** Understanding the backend to empower full-stack development.
+Hi! I'm **Selim**, a Junior Frontend Developer who believes that code is more than logic – it’s poetry. My journey is one of curiosity, exploration, and creativity.  
+Currently, I’m diving into the world of **Python** to expand my horizons and craft smarter solutions.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Forma for Clinic (Pure JS)
-- **Description:** Developed a dynamic platform for a clinic, featuring:
-  - API integration for processing appointment requests.
-  - A login page ensuring secure access.
-  - A "Book an Appointment" form with fields for full name, telephone number, and a brief description of the illness.
-- **Highlight:** A testament to precision in handling real-time data and user interactions.
-
-### Tic Tac Toe (React + Redux)
-- **Description:** Reimagined the classic game with modern tech:
-  - Interactive gameplay powered by React.
-  - State management via Redux for a seamless experience.
-- **Highlight:** A playful yet intricate demonstration of component-based design and state control.
-
-### Mini Donation System (Pure JS)
-- **Description:** Built a lean donation system featuring complete CRUD operations:
-  - Ensuring a smooth and secure transaction flow.
-- **Highlight:** Showcasing the elegance of vanilla JavaScript in handling dynamic data operations.
-
-### Women's Clothing Store Landing (React + SCSS + TS)
-- **Description:** Designed and implemented a landing page for a fashion boutique:
-  - Fusing visual aesthetics with responsive design.
-  - Leveraging React for dynamic content and TypeScript for enhanced reliability.
-- **Highlight:** A blend of creativity and technical efficiency that speaks to modern retail experiences.
-
-### Gaming Site Landing
-- **Description:** Developed a landing page that captures the energetic spirit of the gaming world:
-  - Eye-catching design paired with smooth animations.
-- **Highlight:** Reflecting a deep understanding of user experience and interactive design.
+| Language / Tool        | Icon |
+|------------------------|------|
+| HTML / CSS             | 🌐   |
+| JavaScript (Vanilla)   | 🟨   |
+| Bootstrap 4            | 🎀   |
+| SCSS / SASS            | 🎨   |
+| Tailwind CSS           | 🌪️   |
+| React + Redux          | ⚛️ 🔄 |
+| TypeScript             | 🧩   |
+| NodeJS (Base Level)    | 🌲   |
+| Python (Learning Now)  | 🐍   |
 
 ---
 
-## Animation & Future Vision
+## 📂 Projects
 
-Imagine this resume coming to life with a **cool, animated greeting** that reflects the vibrant, dynamic spirit of my work. While the magic of CSS and JavaScript turns static pages into an interactive delight, my focus remains on crafting experiences that resonate—each project a stepping stone towards a bright, innovative future.
+### 💊 Forma for Clinic (JavaScript)
+- A real-time form app for booking doctor appointments.
+- Includes login, form validation, and API-based appointment submission.
 
-I'm not just writing code; I'm scripting my future, one elegant line at a time. And while the journey is challenging, every bug conquered and every feature brought to life is a victory, echoing my belief: **The future is coded, and it's ours to shape.**
+### ❌⭕ Tic Tac Toe (React + Redux)
+- Classic Tic Tac Toe powered by components and Redux.
+- Fun and interactive logic-driven interface.
+
+### 💸 Mini Donation System (JavaScript)
+- A simple donation app with full **CRUD operations** using plain JS.
+- Helps visualize real-world data interaction without frameworks.
+
+### 👗 Women’s Clothing Store Landing (React + SCSS + TS)
+- A responsive boutique landing page with modern UI.
+- Strong use of layout logic and visual hierarchy.
+
+### 🎮 Gaming Site Landing (HTML + Tailwind)
+- A landing page inspired by gaming culture.
+- Dynamic visuals and smooth UX with Tailwind magic.
 
 ---
 
-## Final Thoughts
+## 🐍 Python Projects
 
-This resume is a canvas—simple yet expressive—crafted in Markdown for the GitHub universe. It is a window into my creative and technical soul. I invite you to explore my work, join me in this journey, and witness firsthand how passion meets precision in the realm of web development.
+### 1. 📋 CLI To-Do App (Python)
 
-*Keep coding, keep dreaming, and let's build the future together!*
+> A simple terminal-based task manager.
+
+**Features:**
+- Add, edit, delete, and mark tasks as done.
+- Data is saved in a JSON file for persistence.
+- Fully interactive terminal UI.
+
+**How to Run:**
+```bash
+python todo.py
