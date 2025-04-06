@@ -1,4 +1,4 @@
-# Selim Chichayew – Junior Fullstack Developer 🚀
+# Selim Chichayew – Junior Frontend Developer 🚀
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Welcome GIF"/>
@@ -14,6 +14,8 @@
 
 Hi! I'm **Selim**, a Junior Frontend Developer who believes that code is more than logic – it’s poetry. My journey is one of curiosity, exploration, and creativity.  
 Currently, I’m diving into the world of **Python** to expand my horizons and craft smarter solutions.
+
+📚 At the moment I am studying at TTweII Institute
 
 ---
 
