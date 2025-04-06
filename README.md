@@ -1,4 +1,4 @@
-# Selim – Junior Frontend Developer 🚀
+# Selim Chichayew – Junior Fullstack Developer 🚀
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Welcome GIF"/>
